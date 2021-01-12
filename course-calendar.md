@@ -96,7 +96,7 @@ Wednesday, March 10
 * Hanna Wallach, “Big Data, Machine Learning, and the Social Sciences,” *Medium* (2014), <https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d>
 
 Friday, March 12
-* **Dataset creation assignment due**
+* **Response paper 4 due**
 
 ## Unit 3: How does data matter?
 ### Week 8
@@ -105,7 +105,10 @@ Monday, March 15
 * Kate Crawford and Vladan Joler, "Anatomy of an AI System" (2018), <https://anatomyof.ai/>
 
 Wednesday, March 17
-* Selections from Francesca Tripodi, “Searching for Alternative Facts: Analyzing Scriptural Inference in Conservative News Practice,” pgs 3-7, 27-48
+* Dataset creation workshop
+
+Friday, March 19
+* **Dataset creation due**
 
 ### Week 9
 Monday, March 22
@@ -113,9 +116,6 @@ Monday, March 22
 
 Wednesday, March 24
 * Safiya Noble, Ch. 2, “Searching for Black Girls,” *Algorithms of Oppression* (2018)
-
-Friday, March 26
-* **Response paper 4 due**
 
 ### Week 10
 Monday, March 29
