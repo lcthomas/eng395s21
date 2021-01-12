@@ -55,7 +55,7 @@ Monday, Feb 15
         * Names, <https://www.slavevoyages.org/voyage/about#methodology/names/7/en/>
         * Skim the rest of this essay
     * Familiarize yourself with the Trans-Atlantic Slave Trade section of the website: explore the maps, glance through the essays, look at the timeline and chronology section, etc
-* Hannah Anderson and Matt Daniels, “Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age,” *The Pudding*, April 2016, https://pudding.cool/2017/03/film-dialogue/
+* Hannah Anderson and Matt Daniels, “Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age,” *The Pudding*, April 2016, <https://pudding.cool/2017/03/film-dialogue/>
 
 Wednesday, Feb 17
 * Heather Krause, “Data Biographies: Getting to Know Your Data,” March 27, 2017, <https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/>
