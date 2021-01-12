@@ -144,11 +144,14 @@ Wednesday, April 14 -- “Wellness Wednesday,” NO CLASS
 
 ### Week 13
 Monday, April 19
-* **Algorithm audit plan part 2 by class**
+* **Algorithm audit plan part 2 draft by class**
 * Workshop
 
 Wednesday, April 21
 * Workshop
+
+Friday, April 23
+* **Revised algorithm audi plan part 2 due**
 
 Week 14
 Monday, April 26
