@@ -153,7 +153,7 @@ Wednesday, April 21
 * Workshop
 
 Friday, April 23
-* **Revised algorithm audi plan part 2 due**
+* **Revised algorithm audit plan part 2 due**
 
 Week 14
 Monday, April 26
