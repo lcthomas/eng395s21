@@ -132,14 +132,15 @@ Monday, April 5
 
 Wednesday, April 7
 * Rebecca Heilweil, “Right-wing media thrives on Facebook. Wheter it rules is more complicated,” Vox, September 9, 2020, <https://www.vox.com/recode/21419328/facebook-conservative-bias-right-wing-crowdtangle-election>
-* Simon Shuster and Billy Perrigo, “Like, Share, Recruit: How a White-Supremacist Militia Uses Facebook to Radicalize and Train New Members,” TIME, Jan 7, 2021, <https://time.com/5926750/azov-far-right-movement-facebook/> 
+* Simon Shuster and Billy Perrigo, “Like, Share, Recruit: How a White-Supremacist Militia Uses Facebook to Radicalize and Train New Members,” TIME, Jan 7, 2021, <https://time.com/5926750/azov-far-right-movement-facebook/>
 
 Friday, April 9
 * **Algorithm audit plan part 1 due**
 
 ### Week 12
 Monday, April 12
-* Joy Buolamwini and Timing Gebru, “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification,” The Conference on Fairness, Accountability, and Transparency, March 2018 (~20 min video)
+* Joy Buolamwini “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification,” The Conference on Fairness, Accountability, and Transparency, March 2018, <https://www.youtube.com/watch?v=Af2VmR-iGkY> (please watch the Q & A, as well)
+* Georgetown Law, Center on Privacy and Technology, “The Perpetual Line-Up: Unregulated Police Face Recognition in America,” <https://www.perpetuallineup.org/>, read “Executive Summary”
 
 Wednesday, April 14 -- “Wellness Wednesday,” NO CLASS
 
