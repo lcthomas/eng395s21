@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course calendar
+title: Course Calendar
 nav_order: 4
 ---
 # Course Calendar
