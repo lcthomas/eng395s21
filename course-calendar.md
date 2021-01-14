@@ -59,6 +59,7 @@ Monday, Feb 15
 
 Wednesday, Feb 17
 * Heather Krause, “Data Biographies: Getting to Know Your Data,” March 27, 2017, <https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/>
+    * Please make sure to watch the video toward the end of the post, as well. 
 * *Women Writer’s Project*: <https://wwp.northeastern.edu/>
     * Editorial principles: <https://wwp.northeastern.edu/about/methods/editorial_principles.html>
 
