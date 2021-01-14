@@ -67,7 +67,7 @@ Friday, Feb 19
 
 ### Week 5
 Monday, Feb 22
-* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, 38-41, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
+* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
 * In class: Exploring data with Tableau
 
 Wednesday, Feb 24
