@@ -59,9 +59,8 @@ Monday, Feb 15
 
 Wednesday, Feb 17
 * Heather Krause, “Data Biographies: Getting to Know Your Data,” March 27, 2017, <https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/>
-    * Please make sure to watch the video toward the end of the post, as well. 
-* *Women Writer’s Project*: <https://wwp.northeastern.edu/>
-    * Editorial principles: <https://wwp.northeastern.edu/about/methods/editorial_principles.html>
+    * Please make sure to watch the video toward the end of the post, as well.
+* In class: Exploring data with Tableau
 
 Friday, Feb 19
 * **Response paper 3 due**
@@ -69,22 +68,22 @@ Friday, Feb 19
 ### Week 5
 Monday, Feb 22
 * Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, 38-41, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
-* Data from WhatEvery1Says project
+* In class: Exploring data with Tableau
 
 Wednesday, Feb 24
-* Kate Theimer, “Archives in Context and As Context,” *Journal of Digital Humanities* 1.2 (2012), <http://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/>
-* *Women Writer’s Project*: <https://wwp.northeastern.edu/>
-    * Read about their schema customization: <https://wwp.northeastern.edu/about/methods/customization.html>
+* Emily Dreyfuss, “‘ICE is Everywhere’: Using Library Science to Map the Separation Crisis,” *Wired*, June 25, 2018, <https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/>
+* Explore Mobilized Humanities, *Torn Apart / Separados*:
+    * Vol 1: <https://xpmethod.columbia.edu/torn-apart/volume/1/>
+    * Vol 2: <https://xpmethod.columbia.edu/torn-apart/volume/2/>
 
 Friday, Feb 26
 * **Dataset analysis due**
 
 ### Week 6
 Monday, March 1
-* Emily Dreyfuss, “‘ICE is Everywhere’: Using Library Science to Map the Separation Crisis,” *Wired*, June 25, 2018, <https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/>
-* Explore Mobilized Humanities, *Torn Apart / Separados*:
-    * Vol 1: <https://xpmethod.columbia.edu/torn-apart/volume/1/>
-    * Vol 2: <https://xpmethod.columbia.edu/torn-apart/volume/2/>
+* Kate Theimer, “Archives in Context and As Context,” *Journal of Digital Humanities* 1.2 (2012), <http://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/>
+* *Women Writer’s Project*: <https://wwp.northeastern.edu/>
+    * Editorial principles: <https://wwp.northeastern.edu/about/methods/editorial_principles.html>
 
 Wednesday, March 3 -- “Wellness Wednesday,” NO CLASS
 
