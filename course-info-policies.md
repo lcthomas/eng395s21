@@ -47,15 +47,22 @@ We will make use of multiple online systems and programs in this course: a cours
 We will use this course site to manage course information and our schedule. You will find an online version of our course calendar here (including the most up-to-date version of reading assignments and due dates), as well as a copy of our course syllabus. You will also find information on course assignments here.
 
 ### Zoom:
-All of our synchronous class sessions will take place over Zoom. If you don’t have a Zoom account already, you will need to sign up for one via UMIT (<https://www.it.miami.edu/a-z-listing/zoom/>). You will need a laptop or a smartphone that can run Zoom, with a working microphone and camera.
+All of our synchronous class sessions will take place over Zoom. If you don’t have a Zoom account already, you will need to sign up for one via [UMIT](https://www.it.miami.edu/a-z-listing/zoom/){:target="_blank"}. You will need a laptop or a smartphone that can run Zoom, with a working microphone and camera.
 
-You will receive our class Zoom call info via your UM email address, and it will also be listed in the “Passwords and Login Instructions” doc in our shared class folder (you will also be able to access Zoom information via Blackboard and our course site). We will use this Zoom call link and password for all class sessions. We will use a separate Zoom session link for office hours.
+You can find our class Zoom call info via our course Blackboard site. We will use this Zoom call link and password for all class sessions. We will use a separate Zoom session link for office hours.
 
-To access recordings of class sessions:
+To join our class Zoom or access recordings of class sessions (via Blackboard):
 
-1.	Select “Zoom Class Meeting Info” from the left-hand menu on our Blackboard site.
-2.	You will be taken to a screen with a link to our class Zoom meeting. This is how you will access this link throughout the semester.
-3.	Select “Cloud Recordings”. There, you will see a list of all of the class session recordings from the past 30 days. This is also how you access the class chat from each session. A class session recording is automatically deleted after 30 days.
+1.	Select “Zoom Meeting Info” from the left-hand menu on our Blackboard site.
+2.	This will take you to a page where you will see a link for our class Zoom sessions and a link for office hours Zoom sessions. To join the class Zoom, click "Class Zoom Meeting Info".
+3. You will be taken to a screen with a link to our class Zoom meeting. Clicking "Join" will sign you into the meeting. This is how you will access this link throughout the semester.
+4. To view a recording of a class session, select “Cloud Recordings”. There, you will see a list of all of the class session recordings from the past 30 days. This is also how you access the class chat from each session. A class session recording is automatically deleted after 30 days.
+
+To meet with Prof Thomas during office hours:
+
+1. From our Blackboard site, click on "Zoom Meeting Info" in the left menu.
+2. This will take you to a page where you will see a link for our class Zoom sessions and a link for office hours Zoom sessions. To join the office hours Zoom, click the link displayed under "Professor Thomas Spring 2021 Office Hours Zoom Info" (next to "Join Zoom Meeting"). This is the Zoom link we will use throughout the semester for one-on-one meetings.
+2. These meetings will not be recorded. I have also enabled a waiting room for office hours, which you will enter first when signing on. I will then let you into the office hours Zoom room.
 
 ### Google drive:
 We will have a class Google drive folder, and at the beginning of the semester I will share you into this folder. We will use this folder to store slides and other materials from our class sessions. We will also use the class Google drive folder to distribute course readings. To protect your privacy, you will need to sign in to Google drive using your UM CaneID and password, and to use this account when working on materials related to this class. You will be shared into our class Gdrive folder via your UM email address.
