@@ -5,6 +5,8 @@ nav_order: 2
 parent: Assignments
 ---
 # Dataset Analysis -- 20%
+[Download a PDF of this assignment page](https://lindsaythomas.net/eng395s21/assignments/dataset-analysis.pdf){:target="_blank"}
+
 * **Due Friday, Feb 26**
     * **Make your dataset selection by Friday, Feb 19**
 * **Dataset biography + 900-1200 word (~3-4 page) reflection**
@@ -33,7 +35,7 @@ Once you have selected your dataset, you will complete a dataset biography, as d
 In order to complete your dataset biography, you will need to be able to explore your data. There are many, many ways to explore a dataset, and the simplest (and also often the most effective, depending on your data) is just to open up the data in Excel/Google sheets and start reading. Additionally, some of the datasets linked below are part of projects that provide visualizations of the data or applications for exploring it (i.e., the Slave Voyages data). You might find these useful in completing this assignment. Additionally, on Wednesday, February 17 and Monday, February 22 we will spend time in class together learning how to use some basic functions in Tableau (<https://www.tableau.com/academic/students>) to explore sample datasets. Tableau is free for students.
 
 Here is how to complete your dataset biography:
-1.	Download the [Dataset Biography Template](https://lindsaythomas.net/assignments/dataset-biography-template.xlsx) (also stored in our class Google drive folder, Syllabus and Assignments folder). The template was originally created by Heather Krause; I have made some small revisions for this assignment.
+1.	Download the [Dataset Biography Template](https://lindsaythomas.net/eng395s21/assignments/dataset-biography-template.xlsx) (also stored in our class Google drive folder, Syllabus and Assignments folder). The template was originally created by Heather Krause; I have made some small revisions for this assignment.
 2.	When you open the template in Excel/Google sheets, you will see that it contains 2 tabs (“general info” and “fields or variables”). The “general info” tab is the one you should fill out first. There are 2 completed rows here. These are examples showing you how you might fill the template out. You can delete them when you hand in your dataset biography.
 3.	Depending on the dataset you have selected for this assignment, it might make sense to fill just one row out (considering your dataset as a whole), or it might make sense to consider different parts of your dataset separately. In the template, you can see that one of the example rows is more general -- it considers the UN Violence Against Women dataset as a whole -- and one is more granular -- it considers just data from Malawi. In general, the more specific you can be, the better.
 4.	After you fill out the “general info” tab, move to the “fields or variables” tab. This tab is empty. Here, you should copy and paste each field or variable name from your dataset, one per column (row 1), and provide definitions of each field/variable in the cell below (row 2). The feasibility of this task will depend to some extent on the size of your dataset and how many fields/variables it includes (talk to me if you have questions about what you should include if there are lots and lots). In general, if you imagine your dataset as a spreadsheet, the “fields” or “variables” refer to the column headers (descriptions or facets of each data point in your dataset), while your dataset’s “observations” are comprised by each separate row (individual data points). What I am asking you to do here is basically to provide definitions for each field/variable included in your dataset (and its metadata). Ideally, you will be able to take these definitions from the dataset’s documentation.
@@ -81,5 +83,3 @@ The datasets below have been created for and by researchers, journalists, and/or
     * Learn a bit more about the data here: http://bestsellers.lib.virginia.edu/help/credits/
     * Learn about a 2003 exhibit using the data here: https://www.jstor.org/stable/20864015?seq=1#metadata_info_tab_contents
     * Learn about a 2013 adaptation of the 2003 exhibit online: https://explore.lib.virginia.edu/exhibits/show/bestsellers
-
-[Download a PDF of this assignment page](https://lindsaythomas.net/assignments/dataset-analysis.pdf){:target="_blank"}
