@@ -46,6 +46,8 @@ The final step is to write a reflection about your dataset (~900-1200 words). Ho
 2.	How does this thing change how you think about your dataset, or what you see as most important about your dataset?
 3.	What would you change about how your dataset is presented or described, and/or how it was collected, to account for this? Or, knowing what you know now about your dataset, what kinds of questions does it allow us to answer/what can we learn from this dataset?
 
+You should relate your discussion to at least 1 of our readings from class so far.
+
 ## Datasets
 The datasets below have been created for and by researchers, journalists, and/or policy makers. Some of them assume knowledge of the conventions of specific research fields. As always, if you have questions about your dataset and what it contains, I am happy to discuss them with you.
 
