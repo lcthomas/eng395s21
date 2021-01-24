@@ -6,6 +6,7 @@ parent: Assignments
 ---
 # Response Papers
 {: .no_toc }
+I grade all response papers on completion (on a 10-point scale). If you complete all aspects of each prompt, you will receive full credit. This page will be updated throughout the semester with the prompts for each response paper.
 <details open markdown="block">
   <summary>
     Table of contents
