@@ -4,7 +4,7 @@ title: Dataset Analysis
 nav_order: 2
 parent: Assignments
 ---
-# Dataset Analysis -- 20%
+# Dataset Analysis -- 15%
 [Download a PDF of this assignment page](https://lindsaythomas.net/eng395s21/assignments/dataset-analysis.pdf){:target="_blank"}
 
 * **Due Friday, Feb 26**

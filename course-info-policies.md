@@ -30,13 +30,12 @@ After each synchronous class meeting, you will have until our next synchronous c
 
 ## Grading
 * Participation: 20%
-* Response papers: 15%
-* Dataset analysis: 20%
+* Response papers: 20%
+* Dataset analysis: 15%
 * Dataset creation: 15%
 * Algorithm audit: 30%
-    * Plan part 1: 5%
-    * Plan part 2: 5%
-   * Final draft: 20%
+    * Plan part 1 + plan part 2: 5%
+   * Final draft: 25%
 
 Additional details on all course assignments can be found via the “Assignments” page on our course website.
 
