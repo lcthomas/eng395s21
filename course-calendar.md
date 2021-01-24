@@ -157,7 +157,7 @@ Friday, April 23
 
 Week 14
 Monday, April 26
-* No class; individual meetings about algorithm audits
+* Workshop
 
 Wednesday, April 28
 * Wrap-up
