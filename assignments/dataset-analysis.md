@@ -82,6 +82,6 @@ The datasets below have been created for and by researchers, journalists, and/or
         * Datasets with documentation (sometimes called a Codebook) that explains each observation/variable in the dataset or that makes it possible for you to infer their meaning.
 * 20th-Century American Bestsellers: <http://bestsellers.lib.virginia.edu/>
     * This data is not available in Excel/csv form; it is only possible to examine the data using the website interface. Still, it would be possible to complete your assignment using this dataset.
-    * Learn a bit more about the data here: http://bestsellers.lib.virginia.edu/help/credits/
-    * Learn about a 2003 exhibit using the data here: https://www.jstor.org/stable/20864015?seq=1#metadata_info_tab_contents
-    * Learn about a 2013 adaptation of the 2003 exhibit online: https://explore.lib.virginia.edu/exhibits/show/bestsellers
+    * Learn a bit more about the data here: <http://bestsellers.lib.virginia.edu/help/credits/>
+    * Learn about a 2003 exhibit using the data here: <https://www.jstor.org/stable/20864015?seq=1#metadata_info_tab_contents>
+    * Learn about a 2013 adaptation of the 2003 exhibit online: <https://explore.lib.virginia.edu/exhibits/show/bestsellers>
