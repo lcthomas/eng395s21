@@ -34,7 +34,7 @@ Monday, Feb 8
 * Jacqueline Wernimont, Ch 2 “Counting the Dead,” *Numbered Lives: Life and Death in Quantum Media* (2018)
 
 Wednesday, Feb 10
-* Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” *Social Text* 36.4 137 (2018): 57-59
+* Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,” *Social Text* 36.4 137 (2018): 57-79
 
 Friday, Feb 12
 * **Response paper 2 due**
