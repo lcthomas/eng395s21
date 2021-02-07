@@ -69,7 +69,13 @@ Monday, Feb 22
 * Emily Dreyfuss, “‘ICE is Everywhere’: Using Library Science to Map the Separation Crisis,” *Wired*, June 25, 2018, <https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/>
 * Explore Mobilized Humanities, *Torn Apart / Separados*:
     * Vol 1: <https://xpmethod.columbia.edu/torn-apart/volume/1/>
+        * Read vol 1 "Textures": <http://xpmethod.columbia.edu/torn-apart/volume/1/textures.html>
+        * Familiarize yourself with the vol 1 visualizations: What do they depict? What data sources do they make use of?
+        * Skim the vol 1 "Reflections:" <https://xpmethod.columbia.edu/torn-apart/volume/1/reflections.html>. How are they related to the data visualizations?
     * Vol 2: <https://xpmethod.columbia.edu/torn-apart/volume/2/>
+        * Read vol 2 "Textures": <http://xpmethod.columbia.edu/torn-apart/volume/2/textures.html>
+        * Familiarize yourself with the vol 2 visualizations: What do they depict? What data sources do they make use of?
+        * Skim the vol 2 "Reflections:" <http://xpmethod.columbia.edu/torn-apart/volume/2/reflections.html>. How are they related to the data visualizations?
 
 Wednesday, Feb 24
 * Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
