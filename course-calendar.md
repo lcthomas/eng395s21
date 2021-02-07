@@ -55,26 +55,25 @@ Monday, Feb 15
         * Names, <https://www.slavevoyages.org/voyage/about#methodology/names/7/en/>
         * Skim the rest of this essay
     * Familiarize yourself with the Trans-Atlantic Slave Trade section of the website: explore the maps, glance through the essays, look at the timeline and chronology section, etc
-* Hannah Anderson and Matt Daniels, “Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age,” *The Pudding*, April 2016, <https://pudding.cool/2017/03/film-dialogue/>
 
 Wednesday, Feb 17
 * Heather Krause, “Data Biographies: Getting to Know Your Data,” March 27, 2017, <https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/>
     * Please make sure to watch the video toward the end of the post, as well.
-* In class: Exploring data with Tableau
+* Hannah Anderson and Matt Daniels, “Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age,” *The Pudding*, April 2016, <https://pudding.cool/2017/03/film-dialogue/>
 
 Friday, Feb 19
 * **Response paper 3 due**
 
 ### Week 5
 Monday, Feb 22
-* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
-* In class: Exploring data with Tableau
-
-Wednesday, Feb 24
 * Emily Dreyfuss, “‘ICE is Everywhere’: Using Library Science to Map the Separation Crisis,” *Wired*, June 25, 2018, <https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/>
 * Explore Mobilized Humanities, *Torn Apart / Separados*:
     * Vol 1: <https://xpmethod.columbia.edu/torn-apart/volume/1/>
     * Vol 2: <https://xpmethod.columbia.edu/torn-apart/volume/2/>
+
+Wednesday, Feb 24
+* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
+* In class: Dataset analysis workshop
 
 Friday, Feb 26
 * **Dataset analysis due**
