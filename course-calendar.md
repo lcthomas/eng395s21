@@ -80,6 +80,7 @@ Monday, Feb 22
 Wednesday, Feb 24
 * Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
 * In class: Dataset analysis workshop
+* "Rough draft" of dataset biography due
 
 Friday, Feb 26
 * **Dataset analysis due**

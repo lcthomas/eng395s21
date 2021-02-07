@@ -9,6 +9,7 @@ parent: Assignments
 
 * **Due Friday, Feb 26**
     * **Make your dataset selection by Friday, Feb 19**
+    * **Complete a "rough draft" of your dataset biography by class on Wednesday, Feb 24**
 * **Dataset biography + 900-1200 word (~3-4 page) reflection**
 * **MLA/Chicago citation style**
 * **Turn in via “Dataset Analysis” portal on Blackboard Assignments page. You should turn in both your dataset biography and your reflection paper via this portal.**
