@@ -43,6 +43,7 @@ Friday, Feb 12
 ### Week 4
 Monday, Feb 15
 * “What is Data?”, University of Minnesota Libraries, <https://www.lib.umn.edu/datamanagement/whatdata?\> (skim)
+* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
 * Explore *Slave Voyages*, <https://www.slavevoyages.org/>
     * Read David Eltis, "Trans-Atlantic  Slave Trade -- Understanding the Database":
         * Introduction, <https://www.slavevoyages.org/voyage/about#methodology/introduction/0/en/>
@@ -78,9 +79,8 @@ Monday, Feb 22
         * Skim the vol 2 "Reflections:" <http://xpmethod.columbia.edu/torn-apart/volume/2/reflections.html>. How are they related to the data visualizations?
 
 Wednesday, Feb 24
-* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18, <https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf>
-* In class: Dataset analysis workshop
-* "Rough draft" of dataset biography due
+* In class: Dataset biography workshop
+    * "Rough draft" of dataset biography due
 
 Friday, Feb 26
 * **Dataset analysis due**
