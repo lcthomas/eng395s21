@@ -45,5 +45,34 @@ How you organize your response paper is up to you, but you should:
 * Dive right in to your definition and analysis. You don't need to waste time and space with introductory and concluding paragraphs. I'm not looking for your standard 5-paragraph academic essay here, and you don't need to have a fully fleshed out argument. Rather, I'm looking to see how you think through the importance of your keyword.
 
 ## Response Paper 3
+* **Due Friday, Feb 19**
+* **500-750 words**
+* **.docx or .pdf**
+* **Turn in via "Response Paper 3" portal on Blackboard Assignments page**
+
+This response paper is desigend to help you prepare for your [dataset analysis assignment](https://lindsaythomas.net/eng395s21/assignments/dataset-analysis.html){:target="_blank"}. Here's how to complete this response paper:
+
+1. Read through the dataset analysis assignment page if you haven't already.
+2. Select 2 datasets you are considering writing about in your dataset analysis paper. At least one of these datasets should come from the list at the bottom of the dataset analysis assignment page. Each dataset you are considering should broadly fit the criteria outlined on the dataset analysis assignment page under "Selecting your dataset," but part of the motivation behind this response paper is to ensure that the dataset you will eventually write about does actually fit these criteria.
+3. Download the [dataset biography template](https://lindsaythomas.net/eng395s21/assignments/dataset-biography-template.xlsx).
+4. Begin the research/investigation necessary to fill out a dataset biography for each dataset you are considering using for your paper. While you *can* simply begin to fill out a dataset biography for each dataset if you would like, you do not have to complete a dataset biography for either dataset you are considering at this stage (that will happen next week). Instead, you should spend enough time investigating each dataset you are considering to learn: a) if it will be possible for you to complete a dataset biography for that dataset; and b) what potential difficulties or problems you have already encountered or you can foresee encountering if you were to select that dataset for your dataset analysis paper.
+5. Write the names of the 2 datasets you are comparing in this response paper at the top of your paper, and provide any links to the data.
+6. Write a 500-750 word reflection on the above process in which you compare the 2 datasets you selected for this experiment to one another and consider their appropriateness for the dataset analysis paper. You might consider the pros and cons of selecting each dataset for the assignment; you might narrate your experience of investigating each dataset and what you found; you might focus on any difficulties and roadblocks you encountered. There are lots of possibilities in terms of what to write about here, but the main idea is that you should use this response paper to think through, on paper, what dataset you will write about in your dataset analysis paper.
+7. Finally, you should indicate at some point in your response paper which dataset you have selected to write about in your dataset analysis paper and why.
 
 ## Response Paper 4
+* **Due Friday, March 12**
+* **500-750 words**
+* **.docx or .pdf**
+* **Turn in via "Response Paper 4" portal on Blackboard Assignments page**
+
+This response paper is designed to help you prepare for your [dataset creation assignment](https://lindsaythomas.net/eng395s21/assignments/dataset-creation.html){:target="_blank"}. Here's how to complete this response paper:
+
+1. Read through the dataset creation assignment page if you haven't already.
+2. If you are working with a partner, name your partner.
+3. List the title of your dataset.
+4. Provide a brief description of the kind of data your dataset will contain and how you plan to collect it (~1-2 paragraphs).
+5. List the titles and brief descriptions of each metadata field in your dataset (~7 minimum). This may change as you work on your dataset, but you should have an initial plan.
+6. Briefly discuss the audience for your dataset. Who are you creating this dataset for?
+7. Provide 1-2 questions your dataset is designed to help this audience answer.
+8. Discuss a list of 2-3 already existing related datasets and explain how your dataset offers a unique contribution/how it is different from these existing datasets (~1-2 paragraphs).
