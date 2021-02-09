@@ -50,7 +50,7 @@ How you organize your response paper is up to you, but you should:
 * **.docx or .pdf**
 * **Turn in via "Response Paper 3" portal on Blackboard Assignments page**
 
-This response paper is desigend to help you prepare for your [dataset analysis assignment](https://lindsaythomas.net/eng395s21/assignments/dataset-analysis.html){:target="_blank"}. Here's how to complete this response paper:
+This response paper is designed to help you prepare for your [dataset analysis assignment](https://lindsaythomas.net/eng395s21/assignments/dataset-analysis.html){:target="_blank"}. Here's how to complete this response paper:
 
 1. Read through the dataset analysis assignment page if you haven't already.
 2. Select 2 datasets you are considering writing about in your dataset analysis paper. At least one of these datasets should come from the list at the bottom of the dataset analysis assignment page. Each dataset you are considering should broadly fit the criteria outlined on the dataset analysis assignment page under "Selecting your dataset," but part of the motivation behind this response paper is to ensure that the dataset you will eventually write about does actually fit these criteria.
