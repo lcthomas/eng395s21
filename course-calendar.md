@@ -59,7 +59,7 @@ Monday, Feb 15
 
 Wednesday, Feb 17
 * Heather Krause, “Data Biographies: Getting to Know Your Data,” March 27, 2017, <https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/>
-    * Please make sure to watch the video toward the end of the post, as well.
+    * Recommended: Watch the video toward the end of the post.
 * Hannah Anderson and Matt Daniels, “Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age,” *The Pudding*, April 2016, <https://pudding.cool/2017/03/film-dialogue/>
 
 Friday, Feb 19
