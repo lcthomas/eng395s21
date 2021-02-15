@@ -57,6 +57,7 @@ The datasets below have been created for and by researchers, journalists, and/or
     * Intra-American: <https://www.slavevoyages.org/american/database>
     * African Names: <https://www.slavevoyages.org/resources/names-database>
     * All of the above pages include options to download data in Excel form (and/or csv). You cannot download all of the columns in the Trans-Atlantic and Intra-American datasets, but if you select Download > Excel > All results with visible columns, you will get a lot.
+    * Alternatively, you can download the entire database (and previous versions), as well as the 2019 code book, here: <https://www.slavevoyages.org/voyage/downloads#full-versions-of-the-trans-atlantic-slave-trade-database/0/en/>
 * Torn Apart/Separados open data: <https://github.com/xpmethod/torn-apart-open-data>
     * The Torn Apart/Separados project is here (we will also discuss this project in class): <https://xpmethod.columbia.edu/torn-apart/volume/1/>
 * Mapping Police Violence: <https://mappingpoliceviolence.org/> (scroll down and click on Download Full Database)
