@@ -78,6 +78,7 @@ Monday, Feb 22
         * Read vol 2 "Textures": <http://xpmethod.columbia.edu/torn-apart/volume/2/textures.html>
         * Familiarize yourself with the vol 2 visualizations: What do they depict? What data sources do they make use of?
         * Skim the vol 2 "Reflections:" <http://xpmethod.columbia.edu/torn-apart/volume/2/reflections.html>. How are they related to the data visualizations?
+    * Data for both volumes is here: <https://github.com/xpmethod/torn-apart-open-data>
 
 Wednesday, Feb 24
 * In class: Dataset biography workshop
