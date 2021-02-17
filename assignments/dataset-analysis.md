@@ -9,7 +9,7 @@ parent: Assignments
 
 * **Due Friday, Feb 26**
     * **Make your dataset selection by Friday, Feb 19**
-    * **Complete a "rough draft" of your dataset biography by class on Wednesday, Feb 24**
+    * **Complete a "rough draft" of your dataset biography by class on Wednesday, Feb 24. Deposit in the "Dataset Biographies" folder in our class Google drive folder.**
 * **Dataset biography + 900-1200 word (~3-4 page) reflection**
 * **MLA/Chicago citation style**
 * **Turn in via “Dataset Analysis” portal on Blackboard Assignments page. You should turn in both your dataset biography and your reflection paper via this portal.**
@@ -58,7 +58,7 @@ The datasets below have been created for and by researchers, journalists, and/or
     * African Names: <https://www.slavevoyages.org/resources/names-database>
     * All of the above pages include options to download data in Excel form (and/or csv). You cannot download all of the columns in the Trans-Atlantic and Intra-American datasets, but if you select Download > Excel > All results with visible columns, you will get a lot.
     * Alternatively, you can download the entire database (and previous versions), as well as the 2019 code book, here: <https://www.slavevoyages.org/voyage/downloads#full-versions-of-the-trans-atlantic-slave-trade-database/0/en/>. HOWEVER, note that the database is an SPSS file (.sav), which is a file format made for proprietary SPSS software. I have converted the latest SPSS file (2019 release) to a csv file and placed the csv version in our class Google drive folder, in the Syllabus and Assignments folder. You will want to download the code book from the link above in order to understand this data ('tastdb-exp-2019.csv').
-* Hannah Anderson and Matt Daniels, Polygraph's Film Dialogue Dataset: <https://github.com/matthewfdaniels/scripts/>; [sources Google doc](https://docs.google.com/spreadsheets/d/1fbcldxxyRvHjDaaY0EeQnQzvSP7Ub8QYVM2bIs-tKH8/edit#gid=1668340193) 
+* Hannah Anderson and Matt Daniels, Polygraph's Film Dialogue Dataset: <https://github.com/matthewfdaniels/scripts/>; [sources Google doc](https://docs.google.com/spreadsheets/d/1fbcldxxyRvHjDaaY0EeQnQzvSP7Ub8QYVM2bIs-tKH8/edit#gid=1668340193)
     * The data is discussed here (we will discuss this project in class): "Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age," *The Pudding*, April 2016, <https://pudding.cool/2017/03/film-dialogue/>
 * Torn Apart/Separados open data: <https://github.com/xpmethod/torn-apart-open-data>
     * The Torn Apart/Separados project is here (we will also discuss this project in class): <https://xpmethod.columbia.edu/torn-apart/volume/1/>
