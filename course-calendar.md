@@ -91,7 +91,17 @@ Friday, Feb 26
 Monday, March 1
 * Kate Theimer, “Archives in Context and As Context,” *Journal of Digital Humanities* 1.2 (2012), <http://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/>
 * *Women Writer’s Project*: <https://wwp.northeastern.edu/>
-    * Editorial principles: <https://wwp.northeastern.edu/about/methods/editorial_principles.html>
+    * Read about their Current Texts: <https://wwp.northeastern.edu/wwo/texts/>
+    * Read Methodology for Transcription and Editing: <https://wwp.northeastern.edu/about/methods/editorial_principles.html>
+        * This page will give you a sense of what is in the archive and the decisions the creators have made about how and what to preserve. It may be most helpful to read this *after* exploring the archive on your own (see next bullet point) so that you have a sense of what it means to "encode" a text (in XML).
+    * Explore some of the texts themselves. However, you need to sign in to this website via our library to access the transcriptions. To do this:
+        * Go to <https://www.library.miami.edu/>
+        * Scroll down to the "Databases A-Z" section and select "W".
+        * Scroll down until you see "Women Writers Online," and click on that.
+        * At this point, if you aren't on campus or signed in already, you will need to sign in with your CaneID and password.
+        * Then you will be taken to the WWO website, and you will have access to the texts.
+        * Click on the "Women Writers Online" menu, and select "Women Writers Online."
+        * Explore their holdings. Get a feel for the kinds of things in the archive, how the interface is organized, what you are looking at when you look at a text, etc
 
 Wednesday, March 3 -- “Wellness Wednesday,” NO CLASS
 
