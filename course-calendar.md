@@ -119,11 +119,11 @@ Friday, March 12
 ## Unit 3: How does data matter?
 ### Week 8
 Monday, March 15
-* Dataset creation workshop
-
-Wednesday, March 17
 * Tarleton Gillespie "Algorithm," from *Digital Keywords: A Vocabulary of Information Society and Culture* (2016)
 * Kate Crawford and Vladan Joler, "Anatomy of an AI System" (2018), <https://anatomyof.ai/>
+
+Wednesday, March 17
+* Dataset creation workshop
 
 Friday, March 19
 * **Dataset creation due**
