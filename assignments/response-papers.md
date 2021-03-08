@@ -62,7 +62,6 @@ This response paper is designed to help you prepare for your [dataset analysis a
 
 ## Response Paper 4
 * **Due Friday, March 12**
-* **500-750 words**
 * **.docx or .pdf**
 * **Turn in via "Response Paper 4" portal on Blackboard Assignments page**
 
@@ -72,7 +71,7 @@ This response paper is designed to help you prepare for your [dataset creation a
 2. If you are working with a partner, name your partner.
 3. List the title of your dataset.
 4. Provide a brief description of the kind of data your dataset will contain and how you plan to collect it (~1-2 paragraphs).
-5. List the titles and brief descriptions of each metadata field in your dataset (~7 minimum). This may change as you work on your dataset, but you should have an initial plan.
-6. Briefly discuss the audience for your dataset. Who are you creating this dataset for?
-7. Provide 1-2 questions your dataset is designed to help this audience answer.
-8. Discuss a list of 2-3 already existing related datasets and explain how your dataset offers a unique contribution/how it is different from these existing datasets (~2 paragraphs).
+5. List the names and brief descriptions of each metadata field in your dataset (~7 minimum). This will likely change as you work on your dataset, but you should have an initial plan.
+6. Provide a list of 2-3 already existing related datasets.
+7. Briefly discuss the audience for your dataset. Who are you creating this dataset for?
+8. Provide 1-2 questions your dataset could help this audience answer.
