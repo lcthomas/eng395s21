@@ -148,9 +148,10 @@ Monday, April 5
 * Terry Nguyen, “How social justice slideshows took over Instagram,” *Vox*, August 12, 2020, <https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism>
 * “How TikTok recommends videos #ForYou,” TikTok Newsroom, June 18, 2020, <https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you>
 
-Wednesday, April 7
-* Rebecca Heilweil, “Right-wing media thrives on Facebook. Whether it rules is more complicated,” Vox, September 9, 2020, <https://www.vox.com/recode/21419328/facebook-conservative-bias-right-wing-crowdtangle-election>
-* Simon Shuster and Billy Perrigo, “Like, Share, Recruit: How a White-Supremacist Militia Uses Facebook to Radicalize and Train New Members,” TIME, Jan 7, 2021, <https://time.com/5926750/azov-far-right-movement-facebook/>
+Wednesday, April 7: CLASS CANCELLED
+* The below reading is now recommended, not required:
+    * Rebecca Heilweil, “Right-wing media thrives on Facebook. Whether it rules is more complicated,” Vox, September 9, 2020, <https://www.vox.com/recode/21419328/facebook-conservative-bias-right-wing-crowdtangle-election>
+    * Simon Shuster and Billy Perrigo, “Like, Share, Recruit: How a White-Supremacist Militia Uses Facebook to Radicalize and Train New Members,” TIME, Jan 7, 2021, <https://time.com/5926750/azov-far-right-movement-facebook/>
 
 Friday, April 9
 * **Algorithm audit plan part 1 due**
