@@ -147,32 +147,32 @@ Wednesday, March 31
 Monday, April 5
 * Terry Nguyen, “How social justice slideshows took over Instagram,” *Vox*, August 12, 2020, <https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism>
 * “How TikTok recommends videos #ForYou,” TikTok Newsroom, June 18, 2020, <https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you>
+* Charlie Warzel, "What Facebook Fed the Baby Boomers," *New York Times*, November 24, 20201, <https://www.nytimes.com/2020/11/24/opinion/facebook-disinformation-boomers.html?smid=fb-nytopinion&smtyp=cur>
 
 Wednesday, April 7: CLASS CANCELLED
 * The below reading is now recommended, not required:
     * Rebecca Heilweil, “Right-wing media thrives on Facebook. Whether it rules is more complicated,” Vox, September 9, 2020, <https://www.vox.com/recode/21419328/facebook-conservative-bias-right-wing-crowdtangle-election>
     * Simon Shuster and Billy Perrigo, “Like, Share, Recruit: How a White-Supremacist Militia Uses Facebook to Radicalize and Train New Members,” TIME, Jan 7, 2021, <https://time.com/5926750/azov-far-right-movement-facebook/>
 
-Friday, April 9
-* **Algorithm audit plan part 1 due**
-
 ### Week 12
 Monday, April 12
 * Joy Buolamwini “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification,” The Conference on Fairness, Accountability, and Transparency, March 2018, <https://www.youtube.com/watch?v=Af2VmR-iGkY> (please watch the Q & A, as well)
 * Georgetown Law, Center on Privacy and Technology, “The Perpetual Line-Up: Unregulated Police Face Recognition in America,” <https://www.perpetuallineup.org/>, read “Executive Summary”
 
+Tuesday, April 13
+* **Algorithm audit plan part 1 due**
+
 Wednesday, April 14 -- “Wellness Wednesday,” NO CLASS
 
 ### Week 13
 Monday, April 19
-* **Algorithm audit plan part 2 draft by class**
 * Workshop
 
 Wednesday, April 21
 * Workshop
 
 Friday, April 23
-* **Revised algorithm audit plan part 2 due**
+* **Algorithm audit plan part 2 due**
 
 Week 14
 Monday, April 26
@@ -181,4 +181,4 @@ Monday, April 26
 Wednesday, April 28
 * Wrap-up
 
-**Algorithm audit due during finals week**
+**Algorithm audit due Wednesday, May 5**
