@@ -40,7 +40,7 @@ This aspect of the assignment should include the following things:
 3. A description of proof-of-concept audit process. What is a scaled-down version of your blue sky audit that you can actually conduct? You should be as specific and concrete as possible when writing this description. What will you actually do? (~1-2 paragraphs)
 
 ### Algorithm audit paper: due Wednesday, May 5
-Your paper should include the following things:
+Your paper (2000-2500 words; ~7-8 pages) should include the following things:
 1. A description of algorithmic process and its uses/functions. This description should include a rationale for conducting the audit (i.e., what is important or significant or interesting or noteworthy etc about this algorithmic process?) and the final version of your research question(s) (~1 page).
 2. A description of your blue sky audit design: How would you audit this algorithm in order to answer your research question if you had all the time/money/skills you needed? (~1 page)
 3. A description of your proof-of-concept audit. What did you do to audit this algorithm? Describe your process and observations/findings. (~2 pages)
