@@ -28,8 +28,8 @@ Diakopoulos and Christian Sandvig et al describe methods for conducting algorith
 
 ## The parts of this assignment
 ### Algorithm audit plan part 1: due Tuesday, April 13
-This is a 1-2 paragraph proposal for your audit. It should include the following things:
-1, A summary of the nature of your interest in this algorithm. I.e., what is your rationale for studying this algorithm? Why does it warrant further study?
+This is a 1-3 paragraph proposal for your audit. It should include the following things:
+1. A summary of the nature of your interest in this algorithm. I.e., what is your rationale for studying this algorithm? Why does it warrant further study?
 2. Your central research question (or questions: it's ok if you have several at this point). This question should operationalize your interest in your selected algorithmic process in some way.
 3. A preliminary description of your blue sky audit. How would you go about answering this research question if you had all of the time, money, skills, etc required? This description is preliminary, but you should strive be as specific and concrete as possible when writing it. You are trying to develop a plan: what would the first step be, the next step, etc?
 
