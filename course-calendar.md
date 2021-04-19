@@ -171,7 +171,7 @@ Monday, April 19
 Wednesday, April 21
 * Workshop
 
-Week 14
+### Week 14
 Monday, April 26
 * **Algorithm audit plan part 2 due by class**
 * Workshop
